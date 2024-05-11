@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HapishaneSistemi", "HapishaneSistemi\HapishaneSistemi.csproj", "{9553F5DB-DF33-4223-A06F-AADC8BF9509B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9553F5DB-DF33-4223-A06F-AADC8BF9509B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9553F5DB-DF33-4223-A06F-AADC8BF9509B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9553F5DB-DF33-4223-A06F-AADC8BF9509B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9553F5DB-DF33-4223-A06F-AADC8BF9509B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F3F8F4-52DF-44D9-B069-5AA25236DD12}
+	EndGlobalSection
+EndGlobal

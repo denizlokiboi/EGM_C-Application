@@ -1,0 +1,7 @@
+C:\Users\belgeler\source\repos\HapishaneSistemi\HapishaneSistemi\bin\Debug\HapishaneSistemi.exe.config
+C:\Users\belgeler\source\repos\HapishaneSistemi\HapishaneSistemi\bin\Debug\HapishaneSistemi.exe
+C:\Users\belgeler\source\repos\HapishaneSistemi\HapishaneSistemi\bin\Debug\HapishaneSistemi.pdb
+C:\Users\belgeler\source\repos\HapishaneSistemi\HapishaneSistemi\obj\Debug\HapishaneSistemi.csproj.AssemblyReference.cache
+C:\Users\belgeler\source\repos\HapishaneSistemi\HapishaneSistemi\obj\Debug\HapishaneSistemi.csproj.CoreCompileInputs.cache
+C:\Users\belgeler\source\repos\HapishaneSistemi\HapishaneSistemi\obj\Debug\HapishaneSistemi.exe
+C:\Users\belgeler\source\repos\HapishaneSistemi\HapishaneSistemi\obj\Debug\HapishaneSistemi.pdb
