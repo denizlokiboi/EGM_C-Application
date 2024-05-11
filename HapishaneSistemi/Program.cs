@@ -12,7 +12,7 @@ namespace HapishaneSistemi
         static void Main(string[] args)
         {
             ArrayList suçlular = new ArrayList();
-
+            //Deniz TUĞRUL
             string secenek = " ";
 
             while (secenek != "4")
